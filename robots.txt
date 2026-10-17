@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://naghtrion.github.io/site-lulavlr/sitemap.xml
